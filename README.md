@@ -8,7 +8,7 @@ Requirements:
 1. Gradle 6 or above
 2. JDK 1.8 
 ```
-git clone https://github.com/anonymous-ai-researcher/icde2020.git
-cd icde2020
+git clone https://github.com/anonymous-ai-researcher/www.git
+cd www
 gradlew.bat run (for Linux run: ./gradlew run)
 ```

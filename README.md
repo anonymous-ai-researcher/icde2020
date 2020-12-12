@@ -18,7 +18,7 @@ If the input ontology is cyclic, the uniform interpolant cannot always be repres
 
 The Prototype comes with a simple graphical tool for computing uniform interpolants of OWL ontologies. To start it, just go to the directory "Swing" and run the main method in GUI.java.
 
-![image](https://github.com/anonymous-ai-researcher/www/blob/master/GUI.png)
+![GUI](https://github.com/anonymous-ai-researcher/www/blob/master/GUI.jpg)
 
 Via this GUI, users can load an OWL ontology by clicking the "Load Ontology" button and compute uniform interpolants for a selected signature by clicking the "Forget" button, as shown in the screenshot. The concept names (bottom frames) and role names (up frames) selected from the screen are those to be forgotten. The uniform interpolant is then displayed in DL syntax, and can be saved as an .owl file for later use.
 
